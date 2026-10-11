@@ -1,19 +1,20 @@
 <div align="center">
 
-<h1>Malak Mohamed</h1>
-<h3>Aspiring DevOps Engineer | Cloud & Automation</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=180&section=header" width="100%" alt="header">
 
-<p>
-  Building and deploying containerized applications on AWS<br>
-  with Docker, Kubernetes, Terraform, and CI/CD.
-</p>
+<h1>Hi 👋 I'm Malak Mohamed Afify</h1>
 
-<a href="www.linkedin.com/in/malak-mohamed-471a6433a">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+%26+Deploying+Containerized+Apps" alt="Typing SVG">
+
+<p>Welcome to my GitHub! 🌸</p>
+
+<a href="https://www.linkedin.com/in/malak-mohamed-471a6433a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href=https://github.com/malak-afify/malak-afify.git"">
+<a href="https://github.com/malak-afify?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
 
 </div>
 
@@ -21,45 +22,70 @@
 
 ## 👩‍💻 About Me
 
-I'm a commerce student currently training in DevOps at **ROUTE**. I'm focused on understanding the full lifecycle of an application: how it's built, containerized, deployed, and automated. I learn by building real, end-to-end projects and documenting what I learn.
+I'm a **DevOps & Cloud Engineer** focused on the full lifecycle of an application: how it's built, containerized, deployed, and automated. I learn by building real projects and documenting what I learn.
 
-I'm looking for opportunities to grow as a **DevOps / Cloud Engineer**.
+- ☁️ Working with **AWS** and containerized workloads
+- 🐳 Building and shipping apps with **Docker** and **Kubernetes**
+- 🎯 Open to **DevOps / Cloud Engineer** opportunities
+
+---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,git,bash" alt="DevOps tools">
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,nginx" alt="App stack">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,bash,python,flask,postgres,nginx" alt="Tech stack">
+</div>
+
+<br>
 
 | Area | Tools |
 |------|-------|
-| **Cloud** | AWS (EC2, S3, RDS, ECR, EKS, IAM) |
-| **Containers & Orchestration** | Docker, Kubernetes |
-| **Infrastructure as Code** | Terraform |
-| **CI/CD** | GitHub Actions |
-| **Backend** | Python, Flask, PostgreSQL, Nginx |
-| **Tools** | Linux, Git, Bash |
+| ☁️ **Cloud** | AWS |
+| 📦 **Containers & Orchestration** | Docker, Kubernetes |
+| 🐍 **Backend** | Python, Flask, PostgreSQL, Nginx |
+| 🧰 **Tools** | Linux, Git, Bash |
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions" alt="Currently learning">
+</div>
+
+Terraform (Infrastructure as Code), Ansible, and CI/CD with GitHub Actions.
+
+---
 
 ## 🚀 Featured Projects
 
-### ☁️ [3-Tier AWS Application](PROJECT_REPO_URL)
-A full 3-tier web application deployed on AWS.
+### ☁️ [Microservices Project](https://github.com/malak-afify/microservices-project)
 
-- **Stack:** Flask, PostgreSQL, Nginx
-- **Containers:** Dockerized services, images stored in Amazon ECR
-- **Orchestration:** Deployed on Kubernetes (Amazon EKS) with Amazon RDS for the database
-- **Automation:** Infrastructure provisioned with Terraform, CI/CD with GitHub Actions
+A containerized application deployed on AWS.
 
-### 📒 [My AWS Notebook](NOTEBOOK_URL)
-A personal reference covering 50 AWS services, organized and illustrated for quick revision.
+| | |
+|---|---|
+| **Stack** | Flask, PostgreSQL, Nginx |
+| **Containers** | Docker |
+| **Cloud** | AWS |
+
+---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Malak Mohamed](www.linkedin.com/in/malak-mohamed-471a6433a)
-
 <div align="center">
-  <sub>Always learning. Always building. ☁️</sub>
+
+<a href="https://www.linkedin.com/in/malak-mohamed-471a6433a">
+  <img src="https://img.shields.io/badge/LinkedIn-Malak%20Mohamed%20Afify-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/malak-afify">
+  <img src="https://img.shields.io/badge/GitHub-malak--afify-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<sub>Always learning. Always building. ☁️</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=120&section=footer" width="100%" alt="footer">
+
 </div>
